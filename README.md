@@ -1,6 +1,6 @@
 # Hello, I'm Lucas Manço ✋
 
-[![Lucas Manço GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasManco&show_icons=true](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Manço GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasManco&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About me
