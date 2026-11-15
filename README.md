@@ -1,25 +1,24 @@
-# Hello, I'm Lucas Manço ✋
+# Lucas Manço
 
-[![Lucas Manço GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasManco&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+**Tech Lead · PHP/Laravel · Oracle · AWS/Azure** — Belo Horizonte, Brazil
 
+I lead the engineering team behind a multi-tenant accounting and tax governance platform used by ~100 large companies in Brazil. I came up as a back-end developer, took over the Oracle databases and the cloud infrastructure along the way, and became Tech Lead in 2026. I still write code every day.
 
-## About me
-29 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
+Almost all of my professional work lives in private client repositories, so this profile is quieter than my week is. What you see here are personal projects and tooling I can share.
 
-## Technical highlights (my daily drivers, mostly private contributions) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Magento](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## What I work on
 
+- **Back-end:** PHP 8, Laravel, REST APIs, Redis, queues, SSO/SAML
+- **Databases:** Oracle (development and administration — backups, tablespaces, PL/SQL), PostgreSQL, MySQL
+- **Infra & DevOps:** AWS (EC2, ECS Fargate, ElastiCache), Azure, Docker, Terraform/OpenTofu, GitHub Actions, Linux, Nginx
+- **Quality & observability:** code review, Playwright (E2E), CloudWatch, Grafana, Sentry
+- **Current focus:** moving a monolith to containers and infrastructure as code without stopping the operation; AI-assisted engineering workflows for the team (code review, documentation, troubleshooting)
 
-### Exploring
-![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+Earlier in my career: four years of e-commerce (Magento, VTEX) with ERP integrations (SAP, TOTVS).
 
+## Elsewhere
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasManco)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LucasManco)](https://git.io/streak-stats)
+- LinkedIn: [linkedin.com/in/lucas-manco](https://linkedin.com/in/lucas-manco)
+- Email: lucasmancosouza@gmail.com
+
+Portuguese native, working English.
